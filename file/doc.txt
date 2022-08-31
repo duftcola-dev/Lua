@@ -1,0 +1,15 @@
+0.0 # LUA DOC 
+
+    0.1 # THIS IS A LUA DOC 
+
+        ** the goal of this file is to be read an create a index of  it 
+    
+    0.2 # THIS IS ANOTHER POINT IN DOC 
+
+1.0 # CREATE AN INDEX FOR THIS FILE 
+
+    The goal is the faind each tag and create and index based on tags 
+
+2.0 # CREATE A COPY 
+
+    Create a copy of this file incase the indexing prosess goes wrong.
